@@ -1,0 +1,1 @@
+When getting a new copy from version control, you must set up app/config/core.php and database.php before it will work.  Defaults are provided as foo.php.default.
